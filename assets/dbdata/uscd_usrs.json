@@ -1,0 +1,88 @@
+[
+  {
+    "_id": "KMVCDUSR0002",
+    "idSeq": {
+      "seq": "INDTSHYD20230109",
+      "desamCode": "IND",
+      "rastrCode": "TS",
+      "jillaCode": "HYD",
+      "year": 2023,
+      "month": 1,
+      "day": 9
+    },
+
+    "vndrOrg": "KMVCDVNDR0001",
+    "voName": "Urban Sattva",
+    "voCode": "US0001",
+
+    "pName": "John Smith",
+    "mName": "John",
+    "mobCc": "+91",
+    "mobNum": "9999999999",
+    "mobCcNum": "+919999999999",
+    "refUID": "JOH001",
+    "myPrimary": "+919999999999",
+    "mpType": "Mobile",
+    "mpVerifyFlag": true,
+
+    "uHoda": "Active",
+    "pIcon": "ind-thumb.jpeg",
+    "piActualName": "http://localhost:3101/assets/files/ind-thumb.jpeg",
+    "piPath": "ind-thumb.jpeg",
+
+    "delFlag": false,
+    "cuRakam": "VC User",
+    "cUser": "KMVCDUSR0002",
+    "cUserName": "John",
+    "cDtStr": "2023-01-09 16:12:57",
+    "cDtNum": 1673260977000,
+    "uuRakam": "VC User",
+    "uUser": "KMVCDUSR0002",
+    "uUserName": "John",
+    "uDtStr": "2023-01-09 16:12:57",
+    "uDtNum": 1673260977000
+  },
+  {
+    "_id": "KMVCDUSR0003",
+    "idSeq": {
+      "seq": "INDTSHYD20230109",
+      "desamCode": "IND",
+      "rastrCode": "TS",
+      "jillaCode": "HYD",
+      "year": 2023,
+      "month": 1,
+      "day": 9
+    },
+
+    "vndrOrg": "KMVCDVNDR0001",
+    "voName": "Urban Sattva",
+    "voCode": "US0001",
+
+    "pName": "Will Smith",
+    "mName": "Will",
+    "mobCc": "+91",
+    "mobNum": "8888888888",
+    "mobCcNum": "+918888888888",
+    "refUID": "WILL001",
+    "myPrimary": "+918888888888",
+    "mpType": "Mobile",
+    "mpVerifyFlag": true,
+
+    "uHoda": "Active",
+    "pIcon": "ind-thumb.jpeg",
+    "piActualName": "http://localhost:3101/assets/files/ind-thumb.jpeg",
+    "piPath": "ind-thumb.jpeg",
+
+    "delFlag": false,
+    "cuRakam": "VC User",
+    "cUser": "KMVCDUSR0003",
+    "cUserName": "Will",
+    "cDtStr": "2023-01-09 16:12:57",
+    "cDtNum": 1673260977000,
+    "uuRakam": "VC User",
+    "uUser": "KMVCDUSR0003",
+    "uUserName": "Will",
+    "uDtStr": "2023-01-09 16:12:57",
+    "uDtNum": 1673260977000
+  }
+]

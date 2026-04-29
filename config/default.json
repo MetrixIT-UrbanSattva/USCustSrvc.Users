@@ -1,0 +1,34 @@
+{
+    "appName": "Kaia Mart - Farmers Pride",
+    "license": "Copyright (C) Skill Works IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skill Works IT <contact@skillworksit.com>, Jan 2023",
+    "mySalt": "86cf75841318f5137097f2157d9a9ea5",
+    "mySaltLen": 32,
+    "myCity": "Hyderabad",
+    "myState": "Telangana",
+    "myCountry": "India",
+
+    "logName": "KMVCDUsersLogger",
+    "logFilesPath": "logs/kmvcdusers.api.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSessionExpireType": "days",
+    "mobSessionExpire": 90,
+    "webSessionExpireType": "days",
+    "webSessionExpire": 3,
+    "otpSessionExpireType": "minutes",
+    "otpSessionExpire": 10,
+    "accessSsnExpireType": "minutes",
+    "accessSsnExpire": "5",
+
+    "pgcPercent": 3,
+
+    "collCustsGsts": "uscd_gsts",
+    "collCustsGstsClsd": "uscd_gsts_clsd",
+    "collCustsGstsSsns": "uscd_gsts_ssns",
+    "collCustsGstsSsnsClsd": "uscd_gsts_ssns_clsd",
+    "collCustsUsrs": "uscd_usrs",
+    "collCustsUsrsInfos": "uscd_usrs_infos",
+    "collCustsUsrsSsns": "uscd_usrs_ssns",
+    "collCustsUsrsSsnsClsd": "uscd_usrs_ssns_clsd"
+}

@@ -1,0 +1,33 @@
+{
+    "license": "Copyright (C) Skill Works IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skill Works IT <contact@skillworksit.com>, Jan 2023",
+    "mongoDBConnection": "mongodb://localhost:27017/uscd_cusrs",
+
+    "fromMail": "",
+    "fromMailPswd": "",
+    "mailServerHost": "smtp.gmail.com",
+    "mailServerPort": 587,
+    "paymentsMail": "payments@kaiamart.com",
+    "jwtSecretKey": "A!&J*$D@^N|Dev",
+    "criptoEncryptKey": "A!&J*$D@^N|KaiaC#Mart#AK4722|Dev",
+
+    "mobCountryCode": "91",
+    "msg91AuthKey": "",
+    "msg91SenderID": "",
+    "msg91Url": "",
+    "msg91FlowId": "",
+    "msg91TransactionalRoute": "4",
+
+    "payuTestKey": "UpeVSOb1",
+    "payuTestSalt": "qGTJvtyPQX",
+    "payuTestAuthHeader": "R4sr9/S0qohk5P1r0ZpIKsGtqcbFAJ3rnMzoMGyPwPE=",
+    "payuProdKey": "",
+    "payuProdSalt": "",
+    "payuProdAuthHeader": "",
+
+    "apiDomain": "http://localhost:3101/",
+    "cartDomain": "http://localhost:3111/",
+    "addressDomain": "http://localhost:3102/",
+    "uiDomain": "http://localhost:4026/",
+    "custUsersDomain": "http://localhost:3151/",
+    "adminadressDomain": "http://localhost:3152/"
+}
